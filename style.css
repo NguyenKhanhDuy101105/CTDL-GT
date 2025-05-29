@@ -1,0 +1,19 @@
+.nav-item:hover {
+    opacity: 0.8;
+}
+
+.search {
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.subscribe {
+    background-image: url('./img/subscribe.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.blur {
+    backdrop-filter: bulr(10px);
+    background-color: #cccccc79;
+}
